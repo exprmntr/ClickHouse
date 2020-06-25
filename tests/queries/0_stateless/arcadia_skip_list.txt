@@ -6,11 +6,6 @@
 00506_union_distributed
 00586_removing_unused_columns_from_subquery
 00588_shard_distributed_prewhere
-00594_alias_in_distributed
-00609_distributed_with_case_when_then
-00678_murmurhash
-00717_low_cardinaliry_distributed_group_by
-00717_merge_and_distributed
 00732_base64_functions
 00746_hashing_tuples
 00751_hashing_ints
@@ -122,4 +117,5 @@
 01297_alter_distributed
 01303_aggregate_function_nothing_serde
 01319_query_formatting_in_server_log
-01326_build_id
+01319_query_formatting_in_server_log
+01319_query_formatting_in_server_log
