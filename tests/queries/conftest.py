@@ -7,6 +7,8 @@ import tempfile
 from server import ServerThread
 
 
+
+
 def pytest_addoption(parser):
     parser.addoption(
         "--builddir", action="store", default=None, help="Path to build directory to use binaries from",
