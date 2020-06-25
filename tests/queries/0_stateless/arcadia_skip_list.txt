@@ -122,3 +122,5 @@
 01297_alter_distributed
 01303_aggregate_function_nothing_serde
 01319_query_formatting_in_server_log
+01319_query_formatting_in_server_log
+01319_query_formatting_in_server_log
