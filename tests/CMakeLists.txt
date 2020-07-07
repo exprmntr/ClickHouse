@@ -6,7 +6,7 @@ if (TARGET check)
 else ()
     include (${ClickHouse_SOURCE_DIR}/cmake/add_check.cmake)
     
-    
+    #aaa
 endif ()
 
 install (PROGRAMS clickhouse-test clickhouse-test-server DESTINATION ${CMAKE_INSTALL_BINDIR} COMPONENT clickhouse)
